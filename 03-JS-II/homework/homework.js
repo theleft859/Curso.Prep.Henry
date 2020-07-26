@@ -1,6 +1,6 @@
 // No cambies los nombres de las funciones.
 
-function obtenerMayor(x,y) {
+function obtenerMayor(x, y) {
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
@@ -67,7 +67,7 @@ function esEntero(numero) {
 function fizzBuzz(numero) {
   // Si "numero" es divisible entre 3, devuelve "fizz"
   // Si "numero" es divisible entre 5, devuelve "buzz"
-  // Si "numero" es divisible entre 3 y 5 (ambos), devuelve "fizzbuzz"
+  // Si "numero" es divis ible entre 3 y 5 (ambos), devuelve "fizzbuzz"
   // De lo contrario, devuelve el numero
   if (numero % 3 === 0 && numero % 5 === 0){
     return "fizzbuzz";
