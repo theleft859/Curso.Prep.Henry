@@ -1,0 +1,15 @@
+for
+
+Sirve para hacer interaciones repetidas has un punto definido al inicio de la interacion, para su uso se necesita de una variales la cual es la que va a controlar el ciclo e indicar hasta cuando se va a ejecutar 
+
+&&
+
+AND ó Y, es un operador logico que se usa para comparar 2 o más expresiones son verdaderas
+
+||
+
+OR ó O, es un operador logico que se usa para comparar 2 o más expresiones al menos una sea verdadera
+
+!
+
+NOT ó NO, es un operador logico que se usa para negar una o más expresiones
